@@ -19,7 +19,7 @@ namespace WebApiDevOps.Test
         public void Test_Get_Values()
         {
             //Arrange
-            string[] expected = new string[] { "value1", "value2" };
+            string[] expected = new string[] { "value1", "value2", "value3" };
 
             // Act
             var result = _controller.Get();

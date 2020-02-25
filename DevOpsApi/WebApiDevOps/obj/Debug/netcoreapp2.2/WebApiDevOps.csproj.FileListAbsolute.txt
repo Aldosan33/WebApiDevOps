@@ -1,0 +1,16 @@
+D:\Garbage\DevOpsApi\WebApiDevOps\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Garbage\DevOpsApi\WebApiDevOps\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Garbage\DevOpsApi\WebApiDevOps\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Garbage\DevOpsApi\WebApiDevOps\bin\Debug\netcoreapp2.2\WebApiDevOps.deps.json
+D:\Garbage\DevOpsApi\WebApiDevOps\bin\Debug\netcoreapp2.2\WebApiDevOps.runtimeconfig.json
+D:\Garbage\DevOpsApi\WebApiDevOps\bin\Debug\netcoreapp2.2\WebApiDevOps.runtimeconfig.dev.json
+D:\Garbage\DevOpsApi\WebApiDevOps\bin\Debug\netcoreapp2.2\WebApiDevOps.dll
+D:\Garbage\DevOpsApi\WebApiDevOps\bin\Debug\netcoreapp2.2\WebApiDevOps.pdb
+D:\Garbage\DevOpsApi\WebApiDevOps\obj\Debug\netcoreapp2.2\WebApiDevOps.csprojAssemblyReference.cache
+D:\Garbage\DevOpsApi\WebApiDevOps\obj\Debug\netcoreapp2.2\WebApiDevOps.RazorAssemblyInfo.cache
+D:\Garbage\DevOpsApi\WebApiDevOps\obj\Debug\netcoreapp2.2\WebApiDevOps.RazorAssemblyInfo.cs
+D:\Garbage\DevOpsApi\WebApiDevOps\obj\Debug\netcoreapp2.2\WebApiDevOps.AssemblyInfoInputs.cache
+D:\Garbage\DevOpsApi\WebApiDevOps\obj\Debug\netcoreapp2.2\WebApiDevOps.AssemblyInfo.cs
+D:\Garbage\DevOpsApi\WebApiDevOps\obj\Debug\netcoreapp2.2\WebApiDevOps.RazorTargetAssemblyInfo.cache
+D:\Garbage\DevOpsApi\WebApiDevOps\obj\Debug\netcoreapp2.2\WebApiDevOps.dll
+D:\Garbage\DevOpsApi\WebApiDevOps\obj\Debug\netcoreapp2.2\WebApiDevOps.pdb

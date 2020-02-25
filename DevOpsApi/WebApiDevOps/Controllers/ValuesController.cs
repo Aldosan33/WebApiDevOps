@@ -21,7 +21,7 @@ namespace WebApiDevOps.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "Alfredo Sánchez Alvarez the best";
+            return "Alfredo Sánchez Alvarez the best developer";
         }
 
         // POST api/values
